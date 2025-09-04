@@ -17,7 +17,7 @@ const Tile: React.FC<TileProps> = ({ value, onClick }) => {
       className="w-24 h-24 bg-white rounded-lg flex items-center justify-center text-3xl font-bold cursor-pointer shadow-lg"
       onClick={onClick}
       layout
-      transition={{ type: 'spring', stiffness: 200, damping: 20 }}
+      transition={{ type: 'spring', stiffness: 150, damping: 25 }}
     >
       {value}
     </motion.div>
