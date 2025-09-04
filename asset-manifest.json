@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stylish-15-puzzle/static/css/main.06b6e5ff.css",
+    "main.js": "/stylish-15-puzzle/static/js/main.11572bf5.js",
+    "static/js/453.670e15c7.chunk.js": "/stylish-15-puzzle/static/js/453.670e15c7.chunk.js",
+    "index.html": "/stylish-15-puzzle/index.html",
+    "main.06b6e5ff.css.map": "/stylish-15-puzzle/static/css/main.06b6e5ff.css.map",
+    "main.11572bf5.js.map": "/stylish-15-puzzle/static/js/main.11572bf5.js.map",
+    "453.670e15c7.chunk.js.map": "/stylish-15-puzzle/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06b6e5ff.css",
+    "static/js/main.11572bf5.js"
+  ]
+}
